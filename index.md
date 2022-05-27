@@ -1,7 +1,7 @@
 # Open Source Software - Summer 2019
 ## Samyuth
 
-<img alt="alt_text" src="Profile_Picture.JPG" />
+<img alt="alt_text" src="assets/images/Profile_Picture.JPG" />
 
 **Discord: sagiwaffles#8497**
 
