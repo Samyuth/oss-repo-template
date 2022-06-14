@@ -25,16 +25,19 @@
     2. 15025 lines
     3. [First Commit](https://github.com/RPI-Subway-Challenge/subwayChallenge/commit/c96f8e09c067c0d5a69d36a03fa1db942297016c)
     4. [Last Commit](https://github.com/RPI-Subway-Challenge/subwayChallenge/commit/f9c699c734cd109ad947fd1ba235a28431210658)
+    5. <img alt="alt_text" src="images/scGitStats" />
 2. Cowsay
     1. 13 Contributers
     2. 6736 lines
     3. [First Commit](https://github.com/piuccio/cowsay/commit/f7907921e8ca1d7f6747dffa440c804a614c8e62)
     4. [Last Commit](https://github.com/piuccio/cowsay/commit/c1b231773cae82653b5c785f78592ba4d53ef6e6)
+    5. <img alt="alt_text" src="images/csGitStats" />
 3. Memcode
     1. 15 Contributers
     2. 213596 lines
     3. [First Commit](https://github.com/lakesare/memcode/commit/c44034e2b47da6668289f076f004984fd7259a61)
     4. [Last Commit](https://github.com/lakesare/memcode/commit/cf76e63ce7feb637f4533a85da16f4275e162eef)
+    5. <img alt="alt_text" src="images/mcGitStats" />
 4. Git
     1. 1544 Contributers
     2. 1414210 lines
