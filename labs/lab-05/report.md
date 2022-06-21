@@ -31,3 +31,10 @@
 * [CMakeLists](tutorial/step5/CMakeLists.txt)
 * [MathFunctions/CMakeLists](tutorial/step5/MathFunctions/CMakeLists.txt)
 <img alt="alt_text" src="tutorial/step5/step5.png" />
+
+## Make Example
+
+* [CMakeLists](example/cmake/CMakeLists.txt)
+* [Makefile](example/cmake/Makefile)
+* Output:
+<img alt="alt_text" src="tutorial/step5/step5.png" />
