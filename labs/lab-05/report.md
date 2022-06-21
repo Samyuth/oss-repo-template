@@ -34,7 +34,8 @@
 
 ## Make Example
 
+* [Makefile](example/manual/Makefile)
 * [CMakeLists](example/cmake/CMakeLists.txt)
-* [Makefile](example/cmake/Makefile)
+* Cmake generated [Makefile](example/cmake/Makefile)
 * Output:
 <img alt="alt_text" src="tutorial/step5/step5.png" />
