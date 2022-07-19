@@ -6,6 +6,11 @@
 
 ## Part 2
 
+Questions:
+1. When looking under the tests section in the dashboard you can see exactly what tests were run, not run, and failed
+2. You can click on the failed tests to see exactly what the failiure conditions are
+3. For the most part it is clean though there are depracation warnings
+
 The only mistake that I ran into was the copyright but because I was doing part 3 while working on part 2 but this was easily fixed by reverting back to the original version.
 
 <img alt="dashboard output" src="images/dashboard.png" />
