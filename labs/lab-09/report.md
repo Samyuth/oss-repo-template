@@ -8,7 +8,7 @@
 
 <img alt="running vim" src="images/vim_in_docker.PNG" />
 
-<img alt="vim commands" src="images/vim_in_docker.PNG" />
+<img alt="vim commands" src="images/vim_commands.PNG" />
 
 ### Installing Cowsay
 
@@ -18,7 +18,9 @@
 
 ### Running application
 
-<img alt="Running example 2" src="images/example2_run.PNG" />
+<img alt="Running example 2" src="images/running_example2.PNG" />
+
+<img alt="Example 2 run" src="images/example2_run.PNG" />
 
 ### Cleaning up containers and images
 
