@@ -2,6 +2,8 @@
 
 ## Checkpoint 0
 
+https://github.com/Samyuth/LomandoCrawler/wiki/Blog#post-for-the-week-of-0724-0730
+
 ## Checkpoint 1
 
 <img alt="working db" src="images/checkpoint1.PNG" />
