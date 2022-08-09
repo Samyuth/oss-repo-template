@@ -37,3 +37,11 @@
 <img alt="alt" src="images/chapal_out.PNG" />
 
 <img alt="alt" src="images/chapal.PNG" />
+
+### Prediction 2
+
+<img alt="alt" src="images/ch3_pred2.PNG" />
+
+<img alt="alt" src="images/shirt_out.PNG" />
+
+<img alt="alt" src="images/shirt.PNG" />
