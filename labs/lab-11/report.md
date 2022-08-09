@@ -45,3 +45,11 @@
 <img alt="alt" src="images/shirt_out.PNG" />
 
 <img alt="alt" src="images/shirt.PNG" />
+
+### Prediction 3
+
+<img alt="alt" src="images/ch3_pred3.PNG" />
+
+<img alt="alt" src="images/jacket_out.PNG" />
+
+<img alt="alt" src="images/jacket.PNG" />
